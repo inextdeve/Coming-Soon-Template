@@ -1,5 +1,5 @@
 # Comming Soon Template
-Coming soon template is a responsive template you can use for your website when it under maintenance 🛠️ or upgrading
+Coming soon template is a responsive template you can use it for your website when it under maintenance 🛠️ or upgrading
 
 ### Template features
 
